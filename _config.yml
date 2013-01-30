@@ -1,0 +1,6 @@
+site_name: 'PASAE | News'
+site_url: 'http://pasae.berkeley.edu/news'
+markdown: rdiscount
+permalink: /./news/:title/
+paginate: 3
+pygments: true
